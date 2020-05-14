@@ -1,0 +1,41 @@
+AWS
+Agile
+AI
+C
+C#
+C++
+Data Mining
+Data Modeling
+elasticsearch
+ETL
+Fluentd
+Flume
+Golang
+Hadoop
+Hbase
+HDFS
+Hive
+JAVA
+JAVASCRIPT
+Kafka
+Lucene
+luigi
+Machine learning
+mongoDB
+Mysql
+neural network
+Oozie
+Pig
+Python
+R
+Scrum
+Scala
+Sqoop
+Solr
+Spark
+SQL
+SAS
+Spss
+TensorFlow
+Trinity
+Zookeeper
